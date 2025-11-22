@@ -1,0 +1,15 @@
+{
+  "name": "messaging-ai-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.25",
+    "tsx": "^4.0.0",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,1 @@
+export const WEWORK_PACKAGE_ID = "0xf79f433d8fbd26a1c0c76f7c4a05f3e3dde1bb9205dc6fb9e934755a4521f2e8";
